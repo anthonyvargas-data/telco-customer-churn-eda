@@ -18,8 +18,8 @@ Para correr esta aplicación analítica en tu entorno local, sigue esta secuenci
 1. **Descargar o clonar los archivos del repositorio:**
     Abre tu terminal y ejecuta:
     
-    git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-    cd TU_REPOSITORIO
+    git clone https://github.com/anthonyvargas-data/telco-customer-churn-eda.git
+    cd telco-customer-churn-eda
 
 2. **Instalar las dependencias del sistema:**
     Asegúrate de contar con Python instalado en tu equipo y ejecuta el siguiente comando en la terminal para desplegar las librerías requeridas (pandas, streamlit, matplotlib y seaborn):
@@ -35,4 +35,4 @@ Para correr esta aplicación analítica en tu entorno local, sigue esta secuenci
 
 ## Links relevantes
 * **Dataset Empleado:** [Telco Customer Churn en Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-* **Acceso a la Aplicación Activa:** [Link de la App en Streamlit Community Cloud](https://share.streamlit.io/)
+* **Acceso a la Aplicación Activa:** [Link de la App en Streamlit Community Cloud](https://telco-customer-churn-eda-anthonyvargas-data.streamlit.app/) 
